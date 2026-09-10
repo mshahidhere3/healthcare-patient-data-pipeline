@@ -1,0 +1,106 @@
+raw_id,mrn,first_name,last_name,date_of_birth,gender,phone,email,address,city,state,zip_code,blood_group,systolic_bp,diastolic_bp
+RAW_000001,MRN-1000001,Patricia,Jones,1998-05-18,Male,5552041995,patricia.jones54@example.com,6456 Main St,Chicago,IL,56343,AB-,152,97
+RAW_000002,MRN-1000002,Jessica,Hernandez,2006-07-12,Male,5551699584,jessica.hernandez11@example.com,6879 Main St,San Jose,CA,93811,A-,113,81
+RAW_000003,,David,Martin,1961-08-06,Female,5557711808,david.martin98@example.com,4159 Main St,Philadelphia,PA,34521,AB-,126,67
+RAW_000004,MRN-1000004,Jennifer,Smith,2006-07-06,Female,5555122575,jennifer.smith75@example.com,6762 Main St,Phoenix,AZ,16212,A+,118,63
+RAW_000005,MRN-1000005,David,Hernandez,1982-01-04,Male,5559825244,david.hernandez65@example.com,9746 Main St,San Antonio,TX,31648,A+,143,66
+RAW_000006,MRN-1000006,Linda,Anderson,1953-10-25,Female,5551361198,linda.anderson36@example.com,3953 Main St,Dallas,TX,62319,AB-,157,81
+RAW_000007,MRN-1000007,Richard,Moore,1982-12-04,Male,5555963324,richard.moore20@example.com,9213 Main St,New York,NY,67715,AB+,118,78
+RAW_000008,MRN-1000008,Robert,Moore,1998-04-13,Female,5552211556,robert.moore12@example.com,7298 Main St,Phoenix,AZ,11459,A+,123,88
+RAW_000009,MRN-1000009,,Martin,1994-04-09,Female,5555587227,joseph.martin16@example.com,3046 Main St,San Jose,CA,89087,A-,132,90
+RAW_000010,MRN-1000010,Mary,Johnson,1977-11-11,Female,5554671754,mary.johnson92@example.com,6540 Main St,New York,NY,57235,O+,111,67
+RAW_000011,MRN-1000011,Barbara,Martin,02/19/1994,Female,5559620692,barbara.martin25@example.com,6786 Main St,Houston,TX,80735,AB+,136,68
+RAW_000012,MRN-1000012,Joseph,Brown,1992-09-11,Transgender,5559067567,joseph.brown93@example.com,7207 Main St,Phoenix,AZ,46774,AB-,121,95
+RAW_000013,MRN-1000013,Patricia,Lopez,1969-04-04,Male,5553843258,patricia.lopez11@example.com,4326 Main St,Phoenix,AZ,79435,AB+,113,68
+RAW_000014,MRN-1000014,John,Hernandez,1976-12-13,Male,5559137545,john.hernandez33@example.com,8077 Main St,New York,NY,71579,AB-,159,64
+RAW_000015,MRN-1000015,Charles,Martin,1961-01-17,Female,5556277166,charles.martin19@example.com,6374 Main St,Houston,TX,73915,A+,143,88
+RAW_000016,MRN-1000016,Jessica,Gonzalez,1985-08-03,Female,5551992940,jessica.gonzalez82@example.com,2973 Main St,Houston,TX,74698,B-,136,91
+RAW_000017,MRN-1000017,Sarah,Williams,1952-12-08,Male,5558176718,sarah.williams47@example.com,6078 Main St,San Antonio,TX,71716,AB+,138,95
+RAW_000018,MRN-1000018,Mary,Jackson,1972-02-04,Female,5555690127,mary.jackson97@example.com,102 Main St,Chicago,IL,82803,B-,120,86
+RAW_000019,MRN-1000019,Jessica,Rodriguez,1951-12-21,Female,5555458621,jessica.rodriguez99@example.com,1741 Main St,Dallas,TX,55770,A+,122,82
+RAW_000020,MRN-1000020,Barbara,Martinez,2014-06-13,Female,5559296263,barbara.martinez11@example.com,9455 Main St,Chicago,IL,42413,A-,160,86
+RAW_000021,MRN-1000021,Thomas,Martinez,2009-09-03,N/A,5559906246,thomas.martinez19@example.com,4164 Main St,San Antonio,TX,39957,AB-,158,70
+RAW_000022,MRN-1000022,Charles,Martinez,1960-07-24,Male,5558296813,charles.martinez32@example.com,5033 Main St,New York,NY,12372,AB-,108,82
+RAW_000023,MRN-1000023,Sarah,Miller,"Oct 28, 1970",Female,5554696588,sarah.miller51@example.com,4551 Main St,Dallas,TX,91029,B-,152,80
+RAW_000024,MRN-1000024,Robert,Lopez,2014-06-25,Female,5552579105,robert.lopez85@example.com,4828 Main St,Houston,TX,48404,A+,111,73
+RAW_000025,MRN-1000025,Thomas,Wilson,2006-02-22,Female,5553014420,thomas.wilson31@example.com,3934 Main St,Philadelphia,PA,80021,AB+,124,73
+RAW_000026,MRN-1000026,Mary,Williams,1952-04-19,Female,5559449453,mary.williams75@example.com,9752 Main St,San Antonio,TX,53662,B-,160,73
+RAW_000027,MRN-1000027,Patricia,Rodriguez,1992-11-10,Female,5553294765,patricia.rodriguez66@example.com,5571 Main St,San Antonio,TX,39549,AB-,108,90
+RAW_000028,MRN-1000028,Michael,Martin,1966-09-26,Female,5555269680,michael.martin76@example.com,7349 Main St,Houston,TX,30164,B-,107,63
+RAW_000029,MRN-1000029,Jessica,Hernandez,1987-07-28,Female,5558020087,jessica.hernandez54@example.com,7315 Main St,Phoenix,AZ,81072,O+,108,99
+RAW_000030,MRN-1000030,Robert,Johnson,2007-11-17,Female,5558529146,robert.johnson61@example.com,2348 Main St,San Jose,CA,55201,AB+,100,73
+RAW_000031,MRN-1000031,Charles,Brown,1960-07-22,Female,5559758021,charles.brown32@example.com,9455 Main St,Phoenix,AZ,999,A-,106,75
+RAW_000032,MRN-1000032,Jessica,Jones,1997-04-05,Female,5558265741,jessica.jones65@example.com,5583 Main St,San Antonio,TX,70522,A-,134,62
+RAW_000033,MRN-1000033,Elizabeth,Rodriguez,2010-04-10,Female,5551177225,elizabeth.rodriguez28@example.com,8076 Main St,Los Angeles,CA,91189,AB+,146,97
+RAW_000034,MRN-1000034,Joseph,Davis,1979-05-18,Male,5559926693,joseph.davis78@example.com,9078 Main St,San Antonio,TX,15773,AB+,140,73
+RAW_000035,MRN-1000035,David,Gonzalez,2015-02-04,Male,5559230628,david.gonzalez47@example.com,5906 Main St,San Jose,CA,35572,B+,107,83
+RAW_000036,MRN-1000036,Michael,Gonzalez,1978-12-02,Male,5554873457,michael.gonzalez69@example.com,3993 Main St,Dallas,TX,INVALID,A-,105,67
+RAW_000037,MRN-1000037,Richard,Lopez,1952-01-06,Male,5553512457,richard.lopez36@example.com,6937 Main St,Philadelphia,PA,59028,O+,154,99
+RAW_000038,None,Karen,Davis,1998-01-08,Female,5555860375,karen.davis90@example.com,7222 Main St,San Jose,CA,80858,B+,111,98
+RAW_000039,MRN-1000039,Elizabeth,Smith,1957-03-02,Male,5559738954,elizabeth.smith79@example.com,2154 Main St,San Diego,CA,32907,B+,155,84
+RAW_000040,MRN-1000040,Joseph,Taylor,2013-02-01,Male,5559096560,joseph.taylor63@example.com,7804 Main St,New York,NY,12345-6789,A-,112,96
+RAW_000041,MRN-1000041,,Brown,1969-12-16,Female,5558155512,sarah.brown71@example.com,8367 Main St,New York,NY,54877,B-,136,71
+RAW_000042,MRN-1000042,David,Miller,1957-12-13,Female,5555136014,david.miller51@example.com,389 Main St,Dallas,TX,12910,B-,112,69
+RAW_000043,MRN-1000043,,Williams,1996-06-28,Female,5559775420,susan.williams41@example.com,4615 Main St,New York,NY,84338,AB+,129,67
+RAW_000044,MRN-1000044,Linda,Gonzalez,1974-05-01,woman,5556672483,linda.gonzalez16@example.com,4251 Main St,Los Angeles,CA,15076,B-,135,75
+RAW_000045,MRN-1000045,Barbara,Anderson,1971-04-14,Female,5557607376,barbara.anderson85@example.com,5634 Main St,Dallas,TX,81090,A-,128,94
+RAW_000046,MRN-1000046,,Gonzalez,1951-06-24,Female,5557713520,james.gonzalez34@example.com,7120 Main St,Houston,TX,50215,AB-,160,82
+RAW_000047,MRN-1000047,,Lopez,1973-02-24,Female,5553817994,linda.lopez39@example.com,6720 Main St,San Jose,CA,30060,O-,105,82
+RAW_000048,MRN-1000048,Sarah,Davis,2008-06-12,Female,5559646095,sarah.davis80@example.com,7236 Main St,San Diego,CA,94524,O-,106,98
+RAW_000049,MRN-1000049,Charles,Lopez,1964-05-20,Female,5556949263,charles.lopez91@example.com,2417 Main St,San Antonio,TX,45938,A-,147,95
+RAW_000050,MRN-1000050,Barbara,Davis,2015-01-04,Male,5554778965,barbara.davis75@example.com,9314 Main St,New York,NY,64288,O-,105,76
+RAW_000051,MRN-1000051,James,Williams,1959-07-23,Female,(555) 793-8306,james.williams16@example.com,5078 Main St,Dallas,TX,43152,A+,101,83
+RAW_000052,MRN-1000052,James,Thomas,2008-09-23,Male,5556694459,james.thomas24@example.com,849 Main St,Dallas,TX,INVALID,A+,103,78
+RAW_000053,MRN-1000053,,Davis,1976-03-18,Female,5553449754,michael.davis50@example.com,8636 Main St,Los Angeles,CA,54760,B-,123,94
+RAW_000054,MRN-1000054,Linda,Williams,1962-04-19,Female,5554232599,linda.williams52@example.com,1248 Main St,Phoenix,AZ,30404,O-,114,67
+RAW_000055,MRN-1000055,James,Gonzalez,1974-03-20,Female,5558257994,james.gonzalez92@example.com,4000 Main St,Philadelphia,PA,30452,A+,131,75
+RAW_000056,MRN-1000056,Barbara,Rodriguez,1973-05-01,Female,5554261037,barbara.rodriguez55@example.com,9363 Main St,Chicago,IL,10550,A-,116,73
+RAW_000057,MRN-1000057,Patricia,Jones,1993-06-16,Female,5551940238,patricia.jones36@example.com,4874 Main St,Los Angeles,CA,68728,B-,100,81
+RAW_000058,MRN-1000058,Robert,Thomas,1981-02-02,Female,INVALID_PHONE,robert.thomas47@example.com,9688 Main St,San Antonio,TX,46544,A-,127,71
+RAW_000059,None,Barbara,Davis,1960-05-08,Male,5551262499,barbara.davis52@example.com,5464 Main St,Dallas,TX,68181,A+,138,60
+RAW_000060,MRN-1000060,Sarah,Davis,2011-08-06,Female,5552996446,sarah.davis36@example.com,3546 Main St,Los Angeles,CA,21029,AB+,104,100
+RAW_000061,MRN-1000061,Mary,Davis,1974-07-16,Female,5553087885,mary.davis16@example.com,9331 Main St,San Diego,CA,94797,B-,128,66
+RAW_000062,MRN-1000062,William,Thomas,1982-04-19,Female,5552852804,william.thomas21@example.com,8706 Main St,San Antonio,TX,999,A+,148,71
+RAW_000063,None,Robert,Davis,1962-10-14,Male,5552557129,robert.davis44@example.com,3525 Main St,Dallas,TX,70765,A-,117,63
+RAW_000064,MRN-1000064,Linda,Martin,1966-08-17,Male,5553738695,linda.martin21@example.com,3232 Main St,San Jose,CA,23088,AB-,110,65
+RAW_000065,MRN-1000065,David,Thomas,1983-03-05,Male,5554478960,david.thomas98@example.com,9908 Main St,Phoenix,AZ,97842,A+,116,67
+RAW_000066,MRN-1000066,Richard,Williams,1990-04-07,Female,(555) 847-5309,richard.williams34@example.com,6600 Main St,New York,NY,90903,AB+,135,99
+RAW_000067,MRN-1000067,Linda,Thomas,2014-03-06,Female,5559370604,linda.thomas68@example.com,6172 Main St,Philadelphia,PA,12345-6789,A+,113,76
+RAW_000068,MRN-1000068,Richard,Davis,1983-03-19,Male,5559268946,richard.davis13@example.com,4996 Main St,San Diego,CA,52708,A+,109,84
+RAW_000069,,William,Smith,1979-06-25,Female,5558611403,william.smith79@example.com,8124 Main St,New York,NY,76656,AB+,154,62
+RAW_000070,MRN-1000070,Susan,Garcia,1971-02-11,Male,5556835798,susan.garcia14@example.com,9320 Main St,Dallas,TX,12345-6789,O+,154,67
+RAW_000071,MRN-1000071,Karen,Taylor,2011-04-14,Male,5553046427,karen.taylor66@example.com,1403 Main St,San Jose,CA,42543,AB-,119,96
+RAW_000072,MRN-1000072,Susan,Smith,1990-04-19,Male,5552897690,susan.smith32@example.com,4135 Main St,San Diego,CA,40257,O-,157,82
+RAW_000073,MRN-1000073,David,Johnson,1954-06-09,Female,5558728156,david.johnson34@example.com,4278 Main St,San Diego,CA,44126,AB-,132,63
+RAW_000074,MRN-1000074,Barbara,Jackson,1957-11-16,man,5553775590,barbara.jackson82@example.com,8003 Main St,Phoenix,AZ,18879,A-,139,72
+RAW_000075,MRN-1000075,Robert,Thomas,1981-03-20,Male,5553857166,robert.thomas12@example.com,3773 Main St,San Diego,CA,86735,O+,154,87
+RAW_000076,None,Susan,Martin,1972-10-22,Female,5553361199,susan.martin57@example.com,8486 Main St,Dallas,TX,27869,B+,151,68
+RAW_000077,MRN-1000077,John,Jones,1961-11-18,Male,5556967218,john.jones30@example.com,9286 Main St,San Jose,CA,36966,B-,110,65
+RAW_000078,MRN-1000078,William,Anderson,1978-02-01,Male,5557534592,william.anderson55@example.com,2773 Main St,Phoenix,AZ,81217,A-,145,81
+RAW_000079,MRN-1000079,,Rodriguez,1978-05-18,Male,5551683569,charles.rodriguez20@example.com,7301 Main St,San Antonio,TX,16273,AB-,112,66
+RAW_000080,,Sarah,Lopez,1959-03-04,Male,5554761562,sarah.lopez22@example.com,401 Main St,San Antonio,TX,77831,O-,122,87
+RAW_000081,MRN-1000081,David,Martin,2002-09-02,Male,5555546238,david.martin34@example.com,3115 Main St,Phoenix,AZ,22984,B-,158,70
+RAW_000082,MRN-1000082,Patricia,Davis,1993-07-02,Female,5554025528,patricia.davis78@example.com,4404 Main St,Phoenix,AZ,71577,B+,121,64
+RAW_000083,MRN-1000083,Mrs. John,Miller,2015-08-07,Male,5553616516,john.miller85@example.com,2851 Main St,San Diego,CA,30923,AB-,142,60
+RAW_000084,MRN-1000084,Elizabeth,Moore,1962-10-27,Female,5555439801,elizabeth.moore49@example.com,5062 Main St,Dallas,TX,19744,O-,155,61
+RAW_000085,MRN-1000085,Richard,Moore,1987-05-24,Male,5556141825,richard.moore13@example.com,3881 Main St,San Jose,CA,67789,O+,148,80
+RAW_000086,MRN-1000086,Jennifer,Taylor,1990-07-28,Unknown,5554219651,jennifer.taylor37@example.com,4745 Main St,Philadelphia,PA,66871,AB+,132,85
+RAW_000087,MRN-1000087,James,Davis,"Oct 27, 2009",Male,5557218544,james.davis10@example.com,8115 Main St,Houston,TX,56742,O-,160,72
+RAW_000088,MRN-1000088,Robert,Martinez,1968-09-14,Male,5553399118,robert.martinez73@example.com,5045 Main St,Chicago,IL,34066,B-,128,78
+RAW_000089,MRN-1000089,John,Garcia,1997-05-18,Male,5551955164,john.garcia99@example.com,1337 Main St,Dallas,TX,12345-6789,AB-,109,95
+RAW_000090,MRN-1000090,Barbara,Hernandez,2011-08-07,Female,5556303897,barbara.hernandez84@example.com,4801 Main St,San Diego,CA,90706,A-,132,83
+RAW_000091,MRN-1000091,Elizabeth,Williams,2001-03-25,Female,5551862104,elizabeth.williams35@example.com,6095 Main St,Los Angeles,CA,74707,B-,118,79
+RAW_000092,MRN-1000092,Robert,Smith,1976-07-08,Female,(555) 458-4442,robert.smith74@example.com,8728 Main St,Chicago,IL,90818,B-,144,93
+RAW_000093,MRN-1000093,Barbara,Brown,1956-07-25,Male,5558169593,barbara.brown31@example.com,7045 Main St,New York,NY,24915,A+,147,63
+RAW_000094,MRN-1000094,Elizabeth,Taylor,2010-01-05,Female,5559707003,elizabeth.taylor89@example.com,8281 Main St,Houston,TX,75493,AB+,159,86
+RAW_000095,MRN-1000095,Charles,Davis,1981-06-06,Female,5554927548,charles.davis98@example.com,5940 Main St,San Diego,CA,26320,O-,113,96
+RAW_000096,MRN-1000096,John,Williams,2015-03-04,woman,5554632223,john.williams66@example.com,7702 Main St,Philadelphia,PA,22436,O-,123,76
+RAW_000097,MRN-1000097,Thomas,Brown,1951-05-20,Female,5551295721,thomas.brown83@example.com,8272 Main St,Chicago,IL,27929,O-,121,89
+RAW_000098,MRN-1000098,Karen,Miller,1984-03-15,Female,5558331491,karen.miller57@example.com,455 Main St,Los Angeles,CA,47389,B+,119,75
+RAW_000099,MRN-1000099,John,Miller,1951-01-02,Male,5554221458,john.miller65@example.com,2870 Main St,New York,NY,93474,A-,159,79
+RAW_000100,MRN-1000100,Linda,Taylor,1959-01-17,Male,,linda.taylor43@example.com,5659 Main St,San Antonio,TX,77671,O-,159,64
+RAW_DUP_6672,MRN-1000082,Patricia,Davis,1993-07-02,Female,+1-555-351-7401,patricia.davis78@example.com,4404 Main St,Phoenix,AZ,71577,B+,121,64
+RAW_DUP_6125,MRN-1000078,William,Anderson,1978-02-01,Male,+1-555-435-4262,william.anderson55@example.com,2773 Main St,Phoenix,AZ,81217,A-,145,81
+RAW_DUP_3821,MRN-1000026,Mary,Williams,1952-04-19,Female,+1-555-994-5405,mary.williams75@example.com,9752 Main St,San Antonio,TX,53662,B-,160,73
+RAW_DUP_2293,MRN-1000028,Michael,Martin,1966-09-26,Female,+1-555-731-4183,michael.martin76@example.com,7349 Main St,Houston,TX,30164,B-,107,63
+RAW_DUP_6516,MRN-1000045,Barbara,Anderson,1971-04-14,Female,+1-555-907-2223,barbara.anderson85@example.com,5634 Main St,Dallas,TX,81090,A-,128,94

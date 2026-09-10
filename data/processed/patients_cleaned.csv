@@ -1,0 +1,87 @@
+patient_id,mrn,first_name,last_name,full_name,date_of_birth,gender,phone,email,address,city,state,zip_code,blood_group,systolic_bp,diastolic_bp,data_quality_score
+PAT-1000001,MRN-1000001,Patricia,Jones,Patricia Jones,1998-05-18,M,+1-555-204-1995,patricia.jones54@example.com,6456 Main St,Chicago,IL,56343,AB-,152,97,100.0
+PAT-1000002,MRN-1000002,Jessica,Hernandez,Jessica Hernandez,2006-07-12,M,+1-555-169-9584,jessica.hernandez11@example.com,6879 Main St,San Jose,CA,93811,A-,113,81,100.0
+PAT-1000004,MRN-1000004,Jennifer,Smith,Jennifer Smith,2006-07-06,F,+1-555-512-2575,jennifer.smith75@example.com,6762 Main St,Phoenix,AZ,16212,A+,118,63,100.0
+PAT-1000005,MRN-1000005,David,Hernandez,David Hernandez,1982-01-04,M,+1-555-982-5244,david.hernandez65@example.com,9746 Main St,San Antonio,TX,31648,A+,143,66,100.0
+PAT-1000006,MRN-1000006,Linda,Anderson,Linda Anderson,1953-10-25,F,+1-555-136-1198,linda.anderson36@example.com,3953 Main St,Dallas,TX,62319,AB-,157,81,100.0
+PAT-1000007,MRN-1000007,Richard,Moore,Richard Moore,1982-12-04,M,+1-555-596-3324,richard.moore20@example.com,9213 Main St,New York,NY,67715,AB+,118,78,100.0
+PAT-1000008,MRN-1000008,Robert,Moore,Robert Moore,1998-04-13,F,+1-555-221-1556,robert.moore12@example.com,7298 Main St,Phoenix,AZ,11459,A+,123,88,100.0
+PAT-1000010,MRN-1000010,Mary,Johnson,Mary Johnson,1977-11-11,F,+1-555-467-1754,mary.johnson92@example.com,6540 Main St,New York,NY,57235,O+,111,67,100.0
+PAT-1000011,MRN-1000011,Barbara,Martin,Barbara Martin,1994-02-19,F,+1-555-962-0692,barbara.martin25@example.com,6786 Main St,Houston,TX,80735,AB+,136,68,100.0
+PAT-1000012,MRN-1000012,Joseph,Brown,Joseph Brown,1992-09-11,O,+1-555-906-7567,joseph.brown93@example.com,7207 Main St,Phoenix,AZ,46774,AB-,121,95,100.0
+PAT-1000013,MRN-1000013,Patricia,Lopez,Patricia Lopez,1969-04-04,M,+1-555-384-3258,patricia.lopez11@example.com,4326 Main St,Phoenix,AZ,79435,AB+,113,68,100.0
+PAT-1000014,MRN-1000014,John,Hernandez,John Hernandez,1976-12-13,M,+1-555-913-7545,john.hernandez33@example.com,8077 Main St,New York,NY,71579,AB-,159,64,100.0
+PAT-1000015,MRN-1000015,Charles,Martin,Charles Martin,1961-01-17,F,+1-555-627-7166,charles.martin19@example.com,6374 Main St,Houston,TX,73915,A+,143,88,100.0
+PAT-1000016,MRN-1000016,Jessica,Gonzalez,Jessica Gonzalez,1985-08-03,F,+1-555-199-2940,jessica.gonzalez82@example.com,2973 Main St,Houston,TX,74698,B-,136,91,100.0
+PAT-1000017,MRN-1000017,Sarah,Williams,Sarah Williams,1952-12-08,M,+1-555-817-6718,sarah.williams47@example.com,6078 Main St,San Antonio,TX,71716,AB+,138,95,100.0
+PAT-1000018,MRN-1000018,Mary,Jackson,Mary Jackson,1972-02-04,F,+1-555-569-0127,mary.jackson97@example.com,102 Main St,Chicago,IL,82803,B-,120,86,100.0
+PAT-1000019,MRN-1000019,Jessica,Rodriguez,Jessica Rodriguez,1951-12-21,F,+1-555-545-8621,jessica.rodriguez99@example.com,1741 Main St,Dallas,TX,55770,A+,122,82,100.0
+PAT-1000020,MRN-1000020,Barbara,Martinez,Barbara Martinez,2014-06-13,F,+1-555-929-6263,barbara.martinez11@example.com,9455 Main St,Chicago,IL,42413,A-,160,86,100.0
+PAT-1000021,MRN-1000021,Thomas,Martinez,Thomas Martinez,2009-09-03,U,+1-555-990-6246,thomas.martinez19@example.com,4164 Main St,San Antonio,TX,39957,AB-,158,70,100.0
+PAT-1000022,MRN-1000022,Charles,Martinez,Charles Martinez,1960-07-24,M,+1-555-829-6813,charles.martinez32@example.com,5033 Main St,New York,NY,12372,AB-,108,82,100.0
+PAT-1000023,MRN-1000023,Sarah,Miller,Sarah Miller,1970-10-28,F,+1-555-469-6588,sarah.miller51@example.com,4551 Main St,Dallas,TX,91029,B-,152,80,100.0
+PAT-1000024,MRN-1000024,Robert,Lopez,Robert Lopez,2014-06-25,F,+1-555-257-9105,robert.lopez85@example.com,4828 Main St,Houston,TX,48404,A+,111,73,100.0
+PAT-1000025,MRN-1000025,Thomas,Wilson,Thomas Wilson,2006-02-22,F,+1-555-301-4420,thomas.wilson31@example.com,3934 Main St,Philadelphia,PA,80021,AB+,124,73,100.0
+PAT-1000026,MRN-1000026,Mary,Williams,Mary Williams,1952-04-19,F,+1-555-944-9453,mary.williams75@example.com,9752 Main St,San Antonio,TX,53662,B-,160,73,100.0
+PAT-1000027,MRN-1000027,Patricia,Rodriguez,Patricia Rodriguez,1992-11-10,F,+1-555-329-4765,patricia.rodriguez66@example.com,5571 Main St,San Antonio,TX,39549,AB-,108,90,100.0
+PAT-1000028,MRN-1000028,Michael,Martin,Michael Martin,1966-09-26,F,+1-555-526-9680,michael.martin76@example.com,7349 Main St,Houston,TX,30164,B-,107,63,100.0
+PAT-1000029,MRN-1000029,Jessica,Hernandez,Jessica Hernandez,1987-07-28,F,+1-555-802-0087,jessica.hernandez54@example.com,7315 Main St,Phoenix,AZ,81072,O+,108,99,100.0
+PAT-1000030,MRN-1000030,Robert,Johnson,Robert Johnson,2007-11-17,F,+1-555-852-9146,robert.johnson61@example.com,2348 Main St,San Jose,CA,55201,AB+,100,73,100.0
+PAT-1000031,MRN-1000031,Charles,Brown,Charles Brown,1960-07-22,F,+1-555-975-8021,charles.brown32@example.com,9455 Main St,Phoenix,AZ,,A-,106,75,100.0
+PAT-1000032,MRN-1000032,Jessica,Jones,Jessica Jones,1997-04-05,F,+1-555-826-5741,jessica.jones65@example.com,5583 Main St,San Antonio,TX,70522,A-,134,62,100.0
+PAT-1000033,MRN-1000033,Elizabeth,Rodriguez,Elizabeth Rodriguez,2010-04-10,F,+1-555-117-7225,elizabeth.rodriguez28@example.com,8076 Main St,Los Angeles,CA,91189,AB+,146,97,100.0
+PAT-1000034,MRN-1000034,Joseph,Davis,Joseph Davis,1979-05-18,M,+1-555-992-6693,joseph.davis78@example.com,9078 Main St,San Antonio,TX,15773,AB+,140,73,100.0
+PAT-1000035,MRN-1000035,David,Gonzalez,David Gonzalez,2015-02-04,M,+1-555-923-0628,david.gonzalez47@example.com,5906 Main St,San Jose,CA,35572,B+,107,83,100.0
+PAT-1000036,MRN-1000036,Michael,Gonzalez,Michael Gonzalez,1978-12-02,M,+1-555-487-3457,michael.gonzalez69@example.com,3993 Main St,Dallas,TX,,A-,105,67,100.0
+PAT-1000037,MRN-1000037,Richard,Lopez,Richard Lopez,1952-01-06,M,+1-555-351-2457,richard.lopez36@example.com,6937 Main St,Philadelphia,PA,59028,O+,154,99,100.0
+PAT-1000039,MRN-1000039,Elizabeth,Smith,Elizabeth Smith,1957-03-02,M,+1-555-973-8954,elizabeth.smith79@example.com,2154 Main St,San Diego,CA,32907,B+,155,84,100.0
+PAT-1000040,MRN-1000040,Joseph,Taylor,Joseph Taylor,2013-02-01,M,+1-555-909-6560,joseph.taylor63@example.com,7804 Main St,New York,NY,12345-6789,A-,112,96,100.0
+PAT-1000042,MRN-1000042,David,Miller,David Miller,1957-12-13,F,+1-555-513-6014,david.miller51@example.com,389 Main St,Dallas,TX,12910,B-,112,69,100.0
+PAT-1000044,MRN-1000044,Linda,Gonzalez,Linda Gonzalez,1974-05-01,F,+1-555-667-2483,linda.gonzalez16@example.com,4251 Main St,Los Angeles,CA,15076,B-,135,75,100.0
+PAT-1000045,MRN-1000045,Barbara,Anderson,Barbara Anderson,1971-04-14,F,+1-555-760-7376,barbara.anderson85@example.com,5634 Main St,Dallas,TX,81090,A-,128,94,100.0
+PAT-1000048,MRN-1000048,Sarah,Davis,Sarah Davis,2008-06-12,F,+1-555-964-6095,sarah.davis80@example.com,7236 Main St,San Diego,CA,94524,O-,106,98,100.0
+PAT-1000049,MRN-1000049,Charles,Lopez,Charles Lopez,1964-05-20,F,+1-555-694-9263,charles.lopez91@example.com,2417 Main St,San Antonio,TX,45938,A-,147,95,100.0
+PAT-1000050,MRN-1000050,Barbara,Davis,Barbara Davis,2015-01-04,M,+1-555-477-8965,barbara.davis75@example.com,9314 Main St,New York,NY,64288,O-,105,76,100.0
+PAT-1000051,MRN-1000051,James,Williams,James Williams,1959-07-23,F,+1-555-793-8306,james.williams16@example.com,5078 Main St,Dallas,TX,43152,A+,101,83,100.0
+PAT-1000052,MRN-1000052,James,Thomas,James Thomas,2008-09-23,M,+1-555-669-4459,james.thomas24@example.com,849 Main St,Dallas,TX,,A+,103,78,100.0
+PAT-1000054,MRN-1000054,Linda,Williams,Linda Williams,1962-04-19,F,+1-555-423-2599,linda.williams52@example.com,1248 Main St,Phoenix,AZ,30404,O-,114,67,100.0
+PAT-1000055,MRN-1000055,James,Gonzalez,James Gonzalez,1974-03-20,F,+1-555-825-7994,james.gonzalez92@example.com,4000 Main St,Philadelphia,PA,30452,A+,131,75,100.0
+PAT-1000056,MRN-1000056,Barbara,Rodriguez,Barbara Rodriguez,1973-05-01,F,+1-555-426-1037,barbara.rodriguez55@example.com,9363 Main St,Chicago,IL,10550,A-,116,73,100.0
+PAT-1000057,MRN-1000057,Patricia,Jones,Patricia Jones,1993-06-16,F,+1-555-194-0238,patricia.jones36@example.com,4874 Main St,Los Angeles,CA,68728,B-,100,81,100.0
+PAT-1000058,MRN-1000058,Robert,Thomas,Robert Thomas,1981-02-02,F,,robert.thomas47@example.com,9688 Main St,San Antonio,TX,46544,A-,127,71,100.0
+PAT-1000060,MRN-1000060,Sarah,Davis,Sarah Davis,2011-08-06,F,+1-555-299-6446,sarah.davis36@example.com,3546 Main St,Los Angeles,CA,21029,AB+,104,100,100.0
+PAT-1000061,MRN-1000061,Mary,Davis,Mary Davis,1974-07-16,F,+1-555-308-7885,mary.davis16@example.com,9331 Main St,San Diego,CA,94797,B-,128,66,100.0
+PAT-1000062,MRN-1000062,William,Thomas,William Thomas,1982-04-19,F,+1-555-285-2804,william.thomas21@example.com,8706 Main St,San Antonio,TX,,A+,148,71,100.0
+PAT-1000064,MRN-1000064,Linda,Martin,Linda Martin,1966-08-17,M,+1-555-373-8695,linda.martin21@example.com,3232 Main St,San Jose,CA,23088,AB-,110,65,100.0
+PAT-1000065,MRN-1000065,David,Thomas,David Thomas,1983-03-05,M,+1-555-447-8960,david.thomas98@example.com,9908 Main St,Phoenix,AZ,97842,A+,116,67,100.0
+PAT-1000066,MRN-1000066,Richard,Williams,Richard Williams,1990-04-07,F,+1-555-847-5309,richard.williams34@example.com,6600 Main St,New York,NY,90903,AB+,135,99,100.0
+PAT-1000067,MRN-1000067,Linda,Thomas,Linda Thomas,2014-03-06,F,+1-555-937-0604,linda.thomas68@example.com,6172 Main St,Philadelphia,PA,12345-6789,A+,113,76,100.0
+PAT-1000068,MRN-1000068,Richard,Davis,Richard Davis,1983-03-19,M,+1-555-926-8946,richard.davis13@example.com,4996 Main St,San Diego,CA,52708,A+,109,84,100.0
+PAT-1000070,MRN-1000070,Susan,Garcia,Susan Garcia,1971-02-11,M,+1-555-683-5798,susan.garcia14@example.com,9320 Main St,Dallas,TX,12345-6789,O+,154,67,100.0
+PAT-1000071,MRN-1000071,Karen,Taylor,Karen Taylor,2011-04-14,M,+1-555-304-6427,karen.taylor66@example.com,1403 Main St,San Jose,CA,42543,AB-,119,96,100.0
+PAT-1000072,MRN-1000072,Susan,Smith,Susan Smith,1990-04-19,M,+1-555-289-7690,susan.smith32@example.com,4135 Main St,San Diego,CA,40257,O-,157,82,100.0
+PAT-1000073,MRN-1000073,David,Johnson,David Johnson,1954-06-09,F,+1-555-872-8156,david.johnson34@example.com,4278 Main St,San Diego,CA,44126,AB-,132,63,100.0
+PAT-1000074,MRN-1000074,Barbara,Jackson,Barbara Jackson,1957-11-16,M,+1-555-377-5590,barbara.jackson82@example.com,8003 Main St,Phoenix,AZ,18879,A-,139,72,100.0
+PAT-1000075,MRN-1000075,Robert,Thomas,Robert Thomas,1981-03-20,M,+1-555-385-7166,robert.thomas12@example.com,3773 Main St,San Diego,CA,86735,O+,154,87,100.0
+PAT-1000077,MRN-1000077,John,Jones,John Jones,1961-11-18,M,+1-555-696-7218,john.jones30@example.com,9286 Main St,San Jose,CA,36966,B-,110,65,100.0
+PAT-1000078,MRN-1000078,William,Anderson,William Anderson,1978-02-01,M,+1-555-753-4592,william.anderson55@example.com,2773 Main St,Phoenix,AZ,81217,A-,145,81,100.0
+PAT-1000081,MRN-1000081,David,Martin,David Martin,2002-09-02,M,+1-555-554-6238,david.martin34@example.com,3115 Main St,Phoenix,AZ,22984,B-,158,70,100.0
+PAT-1000082,MRN-1000082,Patricia,Davis,Patricia Davis,1993-07-02,F,+1-555-402-5528,patricia.davis78@example.com,4404 Main St,Phoenix,AZ,71577,B+,121,64,100.0
+PAT-1000083,MRN-1000083,John,Miller,John Miller,2015-08-07,M,+1-555-361-6516,john.miller85@example.com,2851 Main St,San Diego,CA,30923,AB-,142,60,100.0
+PAT-1000084,MRN-1000084,Elizabeth,Moore,Elizabeth Moore,1962-10-27,F,+1-555-543-9801,elizabeth.moore49@example.com,5062 Main St,Dallas,TX,19744,O-,155,61,100.0
+PAT-1000085,MRN-1000085,Richard,Moore,Richard Moore,1987-05-24,M,+1-555-614-1825,richard.moore13@example.com,3881 Main St,San Jose,CA,67789,O+,148,80,100.0
+PAT-1000086,MRN-1000086,Jennifer,Taylor,Jennifer Taylor,1990-07-28,U,+1-555-421-9651,jennifer.taylor37@example.com,4745 Main St,Philadelphia,PA,66871,AB+,132,85,100.0
+PAT-1000087,MRN-1000087,James,Davis,James Davis,2009-10-27,M,+1-555-721-8544,james.davis10@example.com,8115 Main St,Houston,TX,56742,O-,160,72,100.0
+PAT-1000088,MRN-1000088,Robert,Martinez,Robert Martinez,1968-09-14,M,+1-555-339-9118,robert.martinez73@example.com,5045 Main St,Chicago,IL,34066,B-,128,78,100.0
+PAT-1000089,MRN-1000089,John,Garcia,John Garcia,1997-05-18,M,+1-555-195-5164,john.garcia99@example.com,1337 Main St,Dallas,TX,12345-6789,AB-,109,95,100.0
+PAT-1000090,MRN-1000090,Barbara,Hernandez,Barbara Hernandez,2011-08-07,F,+1-555-630-3897,barbara.hernandez84@example.com,4801 Main St,San Diego,CA,90706,A-,132,83,100.0
+PAT-1000091,MRN-1000091,Elizabeth,Williams,Elizabeth Williams,2001-03-25,F,+1-555-186-2104,elizabeth.williams35@example.com,6095 Main St,Los Angeles,CA,74707,B-,118,79,100.0
+PAT-1000092,MRN-1000092,Robert,Smith,Robert Smith,1976-07-08,F,+1-555-458-4442,robert.smith74@example.com,8728 Main St,Chicago,IL,90818,B-,144,93,100.0
+PAT-1000093,MRN-1000093,Barbara,Brown,Barbara Brown,1956-07-25,M,+1-555-816-9593,barbara.brown31@example.com,7045 Main St,New York,NY,24915,A+,147,63,100.0
+PAT-1000094,MRN-1000094,Elizabeth,Taylor,Elizabeth Taylor,2010-01-05,F,+1-555-970-7003,elizabeth.taylor89@example.com,8281 Main St,Houston,TX,75493,AB+,159,86,100.0
+PAT-1000095,MRN-1000095,Charles,Davis,Charles Davis,1981-06-06,F,+1-555-492-7548,charles.davis98@example.com,5940 Main St,San Diego,CA,26320,O-,113,96,100.0
+PAT-1000096,MRN-1000096,John,Williams,John Williams,2015-03-04,F,+1-555-463-2223,john.williams66@example.com,7702 Main St,Philadelphia,PA,22436,O-,123,76,100.0
+PAT-1000097,MRN-1000097,Thomas,Brown,Thomas Brown,1951-05-20,F,+1-555-129-5721,thomas.brown83@example.com,8272 Main St,Chicago,IL,27929,O-,121,89,100.0
+PAT-1000098,MRN-1000098,Karen,Miller,Karen Miller,1984-03-15,F,+1-555-833-1491,karen.miller57@example.com,455 Main St,Los Angeles,CA,47389,B+,119,75,100.0
+PAT-1000099,MRN-1000099,John,Miller,John Miller,1951-01-02,M,+1-555-422-1458,john.miller65@example.com,2870 Main St,New York,NY,93474,A-,159,79,100.0
+PAT-1000100,MRN-1000100,Linda,Taylor,Linda Taylor,1959-01-17,M,,linda.taylor43@example.com,5659 Main St,San Antonio,TX,77671,O-,159,64,100.0
