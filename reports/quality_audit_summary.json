@@ -1,12 +1,12 @@
 {
-  "total_ingested": 105,
-  "clean_passed": 86,
-  "duplicates_merged": 5,
-  "quarantined": 14,
-  "clean_pass_rate_pct": 81.9,
+  "total_ingested": 53,
+  "clean_passed": 48,
+  "duplicates_merged": 3,
+  "quarantined": 2,
+  "clean_pass_rate_pct": 90.57,
   "error_distribution": {
-    "ERR_INVALID_MRN": 7,
-    "ERR_MISSING_NAME": 7
+    "ERR_INVALID_DOB": 1,
+    "ERR_INVALID_MRN": 1
   },
-  "avg_quality_score_improvement_pct": 86.67
+  "avg_quality_score_improvement_pct": 96.23
 }

@@ -1,394 +1,58 @@
 [
   {
-    "raw_id": "RAW_000003",
-    "mrn": "",
-    "error_codes": [
-      "ERR_INVALID_MRN"
-    ],
-    "error_messages": [
-      "Missing or invalid Medical Record Number: ''"
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000003",
-      "mrn": "",
-      "first_name": "David",
-      "last_name": "Martin",
-      "date_of_birth": "1961-08-06",
-      "gender": "Female",
-      "phone": "5557711808",
-      "email": "david.martin98@example.com",
-      "address": "4159 Main St",
-      "city": "Philadelphia",
-      "state": "PA",
-      "zip_code": "34521",
-      "blood_group": "AB-",
-      "systolic_bp": "126",
-      "diastolic_bp": "67"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.266243"
-  },
-  {
-    "raw_id": "RAW_000009",
-    "mrn": "MRN-1000009",
-    "error_codes": [
-      "ERR_MISSING_NAME"
-    ],
-    "error_messages": [
-      "Patient first name or last name is missing or invalid."
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000009",
-      "mrn": "MRN-1000009",
-      "first_name": "",
-      "last_name": "Martin",
-      "date_of_birth": "1994-04-09",
-      "gender": "Female",
-      "phone": "5555587227",
-      "email": "joseph.martin16@example.com",
-      "address": "3046 Main St",
-      "city": "San Jose",
-      "state": "CA",
-      "zip_code": "89087",
-      "blood_group": "A-",
-      "systolic_bp": "132",
-      "diastolic_bp": "90"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.269986"
-  },
-  {
-    "raw_id": "RAW_000038",
-    "mrn": "None",
-    "error_codes": [
-      "ERR_INVALID_MRN"
-    ],
-    "error_messages": [
-      "Missing or invalid Medical Record Number: 'None'"
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000038",
-      "mrn": "None",
-      "first_name": "Karen",
-      "last_name": "Davis",
-      "date_of_birth": "1998-01-08",
-      "gender": "Female",
-      "phone": "5555860375",
-      "email": "karen.davis90@example.com",
-      "address": "7222 Main St",
-      "city": "San Jose",
-      "state": "CA",
-      "zip_code": "80858",
-      "blood_group": "B+",
-      "systolic_bp": "111",
-      "diastolic_bp": "98"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.277557"
-  },
-  {
-    "raw_id": "RAW_000041",
-    "mrn": "MRN-1000041",
-    "error_codes": [
-      "ERR_MISSING_NAME"
-    ],
-    "error_messages": [
-      "Patient first name or last name is missing or invalid."
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000041",
-      "mrn": "MRN-1000041",
-      "first_name": "",
-      "last_name": "Brown",
-      "date_of_birth": "1969-12-16",
-      "gender": "Female",
-      "phone": "5558155512",
-      "email": "sarah.brown71@example.com",
-      "address": "8367 Main St",
-      "city": "New York",
-      "state": "NY",
-      "zip_code": "54877",
-      "blood_group": "B-",
-      "systolic_bp": "136",
-      "diastolic_bp": "71"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.277557"
-  },
-  {
-    "raw_id": "RAW_000043",
-    "mrn": "MRN-1000043",
-    "error_codes": [
-      "ERR_MISSING_NAME"
-    ],
-    "error_messages": [
-      "Patient first name or last name is missing or invalid."
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000043",
-      "mrn": "MRN-1000043",
-      "first_name": "",
-      "last_name": "Williams",
-      "date_of_birth": "1996-06-28",
-      "gender": "Female",
-      "phone": "5559775420",
-      "email": "susan.williams41@example.com",
-      "address": "4615 Main St",
-      "city": "New York",
-      "state": "NY",
-      "zip_code": "84338",
-      "blood_group": "AB+",
-      "systolic_bp": "129",
-      "diastolic_bp": "67"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.277557"
-  },
-  {
     "raw_id": "RAW_000046",
     "mrn": "MRN-1000046",
     "error_codes": [
-      "ERR_MISSING_NAME"
+      "ERR_INVALID_DOB"
     ],
     "error_messages": [
-      "Patient first name or last name is missing or invalid."
+      "Unparseable or out-of-range date of birth: '1990-13-45'"
     ],
     "raw_payload": {
       "raw_id": "RAW_000046",
       "mrn": "MRN-1000046",
-      "first_name": "",
-      "last_name": "Gonzalez",
-      "date_of_birth": "1951-06-24",
+      "first_name": "Michael",
+      "last_name": "Anderson",
+      "date_of_birth": "1990-13-45",
       "gender": "Female",
-      "phone": "5557713520",
-      "email": "james.gonzalez34@example.com",
-      "address": "7120 Main St",
-      "city": "Houston",
-      "state": "TX",
-      "zip_code": "50215",
-      "blood_group": "AB-",
-      "systolic_bp": "160",
-      "diastolic_bp": "82"
+      "phone": "5553419029",
+      "email": "michael.anderson19@example.com",
+      "address": "2865 Main St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": "54741",
+      "blood_group": "O+",
+      "systolic_bp": "124",
+      "diastolic_bp": "80"
     },
-    "quarantine_timestamp": "2026-09-10T18:35:18.277557"
+    "quarantine_timestamp": "2026-09-10T18:57:36.662795"
   },
   {
     "raw_id": "RAW_000047",
-    "mrn": "MRN-1000047",
+    "mrn": "",
     "error_codes": [
-      "ERR_MISSING_NAME"
+      "ERR_INVALID_MRN"
     ],
     "error_messages": [
-      "Patient first name or last name is missing or invalid."
+      "Missing or invalid Medical Record Number: ''"
     ],
     "raw_payload": {
       "raw_id": "RAW_000047",
-      "mrn": "MRN-1000047",
-      "first_name": "",
-      "last_name": "Lopez",
-      "date_of_birth": "1973-02-24",
-      "gender": "Female",
-      "phone": "5553817994",
-      "email": "linda.lopez39@example.com",
-      "address": "6720 Main St",
-      "city": "San Jose",
-      "state": "CA",
-      "zip_code": "30060",
-      "blood_group": "O-",
-      "systolic_bp": "105",
-      "diastolic_bp": "82"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.277557"
-  },
-  {
-    "raw_id": "RAW_000053",
-    "mrn": "MRN-1000053",
-    "error_codes": [
-      "ERR_MISSING_NAME"
-    ],
-    "error_messages": [
-      "Patient first name or last name is missing or invalid."
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000053",
-      "mrn": "MRN-1000053",
-      "first_name": "",
-      "last_name": "Davis",
-      "date_of_birth": "1976-03-18",
-      "gender": "Female",
-      "phone": "5553449754",
-      "email": "michael.davis50@example.com",
-      "address": "8636 Main St",
-      "city": "Los Angeles",
-      "state": "CA",
-      "zip_code": "54760",
-      "blood_group": "B-",
-      "systolic_bp": "123",
-      "diastolic_bp": "94"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.278724"
-  },
-  {
-    "raw_id": "RAW_000059",
-    "mrn": "None",
-    "error_codes": [
-      "ERR_INVALID_MRN"
-    ],
-    "error_messages": [
-      "Missing or invalid Medical Record Number: 'None'"
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000059",
-      "mrn": "None",
-      "first_name": "Barbara",
-      "last_name": "Davis",
-      "date_of_birth": "1960-05-08",
-      "gender": "Male",
-      "phone": "5551262499",
-      "email": "barbara.davis52@example.com",
-      "address": "5464 Main St",
-      "city": "Dallas",
-      "state": "TX",
-      "zip_code": "68181",
-      "blood_group": "A+",
-      "systolic_bp": "138",
-      "diastolic_bp": "60"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.279780"
-  },
-  {
-    "raw_id": "RAW_000063",
-    "mrn": "None",
-    "error_codes": [
-      "ERR_INVALID_MRN"
-    ],
-    "error_messages": [
-      "Missing or invalid Medical Record Number: 'None'"
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000063",
-      "mrn": "None",
-      "first_name": "Robert",
-      "last_name": "Davis",
-      "date_of_birth": "1962-10-14",
-      "gender": "Male",
-      "phone": "5552557129",
-      "email": "robert.davis44@example.com",
-      "address": "3525 Main St",
-      "city": "Dallas",
-      "state": "TX",
-      "zip_code": "70765",
-      "blood_group": "A-",
-      "systolic_bp": "117",
-      "diastolic_bp": "63"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.279780"
-  },
-  {
-    "raw_id": "RAW_000069",
-    "mrn": "",
-    "error_codes": [
-      "ERR_INVALID_MRN"
-    ],
-    "error_messages": [
-      "Missing or invalid Medical Record Number: ''"
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000069",
       "mrn": "",
-      "first_name": "William",
-      "last_name": "Smith",
-      "date_of_birth": "1979-06-25",
+      "first_name": "Richard",
+      "last_name": "Garcia",
+      "date_of_birth": "1967-08-27",
       "gender": "Female",
-      "phone": "5558611403",
-      "email": "william.smith79@example.com",
-      "address": "8124 Main St",
+      "phone": "5556782801",
+      "email": "richard.garcia20@example.com",
+      "address": "7859 Main St",
       "city": "New York",
       "state": "NY",
-      "zip_code": "76656",
-      "blood_group": "AB+",
-      "systolic_bp": "154",
-      "diastolic_bp": "62"
+      "zip_code": "58343",
+      "blood_group": "O+",
+      "systolic_bp": "160",
+      "diastolic_bp": "84"
     },
-    "quarantine_timestamp": "2026-09-10T18:35:18.280297"
-  },
-  {
-    "raw_id": "RAW_000076",
-    "mrn": "None",
-    "error_codes": [
-      "ERR_INVALID_MRN"
-    ],
-    "error_messages": [
-      "Missing or invalid Medical Record Number: 'None'"
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000076",
-      "mrn": "None",
-      "first_name": "Susan",
-      "last_name": "Martin",
-      "date_of_birth": "1972-10-22",
-      "gender": "Female",
-      "phone": "5553361199",
-      "email": "susan.martin57@example.com",
-      "address": "8486 Main St",
-      "city": "Dallas",
-      "state": "TX",
-      "zip_code": "27869",
-      "blood_group": "B+",
-      "systolic_bp": "151",
-      "diastolic_bp": "68"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.280297"
-  },
-  {
-    "raw_id": "RAW_000079",
-    "mrn": "MRN-1000079",
-    "error_codes": [
-      "ERR_MISSING_NAME"
-    ],
-    "error_messages": [
-      "Patient first name or last name is missing or invalid."
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000079",
-      "mrn": "MRN-1000079",
-      "first_name": "",
-      "last_name": "Rodriguez",
-      "date_of_birth": "1978-05-18",
-      "gender": "Male",
-      "phone": "5551683569",
-      "email": "charles.rodriguez20@example.com",
-      "address": "7301 Main St",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip_code": "16273",
-      "blood_group": "AB-",
-      "systolic_bp": "112",
-      "diastolic_bp": "66"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.280297"
-  },
-  {
-    "raw_id": "RAW_000080",
-    "mrn": "",
-    "error_codes": [
-      "ERR_INVALID_MRN"
-    ],
-    "error_messages": [
-      "Missing or invalid Medical Record Number: ''"
-    ],
-    "raw_payload": {
-      "raw_id": "RAW_000080",
-      "mrn": "",
-      "first_name": "Sarah",
-      "last_name": "Lopez",
-      "date_of_birth": "1959-03-04",
-      "gender": "Male",
-      "phone": "5554761562",
-      "email": "sarah.lopez22@example.com",
-      "address": "401 Main St",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip_code": "77831",
-      "blood_group": "O-",
-      "systolic_bp": "122",
-      "diastolic_bp": "87"
-    },
-    "quarantine_timestamp": "2026-09-10T18:35:18.280297"
+    "quarantine_timestamp": "2026-09-10T18:57:36.662795"
   }
 ]

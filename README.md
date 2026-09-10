@@ -97,18 +97,25 @@ cd healthcare-patient-data-pipeline
 pip install -r requirements.txt
 ```
 
-### 2. Run End-to-End Pipeline with Synthetic Data
+### 2. Launch Interactive Web Dashboard (Streamlit)
+```bash
+streamlit run app.py
+```
+*Opens in your browser at `http://localhost:8501` featuring drag-and-drop EMR CSV upload, before/after comparison tables, quarantine audit logs, and a live normalization playground.*
+
+### 3. Deploy Live on Streamlit Community Cloud (Free Shareable URL)
+1. Go to [share.streamlit.io](https://share.streamlit.io/) and sign in with GitHub.
+2. Click **New app** and select `mshahidhere3/healthcare-patient-data-pipeline`.
+3. Set Main file path to `app.py` and click **Deploy**.
+4. You will get a permanent public URL (e.g. `https://patient-data-pipeline.streamlit.app`) to share with hospitals, recruiters, or clients.
+
+### 4. Run CLI Pipeline with Synthetic Data
 Generate 500 dirty synthetic patient records and run full ETL cleansing and audit:
 ```bash
 python run_pipeline.py --generate-sample 500
 ```
 
-### 3. Run on Custom CSV File
-```bash
-python run_pipeline.py --input path/to/your_data.csv --output-dir data/processed
-```
-
-### 4. Run Automated Test Suite
+### 5. Run Automated Test Suite
 ```bash
 pytest tests/ -v
 ```
